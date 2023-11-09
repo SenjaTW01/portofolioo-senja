@@ -22,7 +22,7 @@ const EmailSection = () => {
           cobalah yang terbaik untuk mu!
         </p>
         <div className="socials flex flex-row gap-2">
-          <Link href="https://github.com/SenjaTW01">
+          <Link href="https://github.com/SenjaTW01">  
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
           <Link href="https://www.linkedin.com/in/senja-rizki-461940248">
